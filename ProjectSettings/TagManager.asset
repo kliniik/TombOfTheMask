@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BigCoin
+  - SmallCoin
+  - Spikes
+  - Walls
+  - MainPlayer
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Walls
+  - Coins
+  - Spikes
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1317247665
+    locked: 0
+  - name: Foreground
+    uniqueID: 1980904903
+    locked: 0
+  - name: Spikes
+    uniqueID: 3447314349
+    locked: 0
+  - name: Coins
+    uniqueID: 278610835
+    locked: 0
+  - name: Walls
+    uniqueID: 2750136689
+    locked: 0
