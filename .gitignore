@@ -2,3 +2,8 @@ Library/
 Temp/
 Logs/
 Build/
+.vs/
+UserSettings/
+MonoBleedingEdge/
+UpgradeLog.htm
+.vsconfig
