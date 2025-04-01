@@ -32,6 +32,8 @@ Recreation of the *Tomb of the Mask* game developed in Unity as a part of the Ga
 - [Pixel RPG Character](https://snoblin.itch.io/pixel-rpg-free-npc)
 - [Free Pixel Effect and Bullet](https://bdragon1727.itch.io/free-effect-and-bullet-16x16)
 
+## Author
+[Natalia Klinik](https://github.com/kliniik)
 
 ---
 **Note:** This project serves for educational purposes only and is not associated with the original Tomb of the Mask developers.
