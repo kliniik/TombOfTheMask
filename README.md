@@ -6,7 +6,7 @@ Recreation of the *Tomb of the Mask* game developed in Unity as a part of the Ga
 
 ## Gameplay Sneek Peak
 ![Game Screenshot](game_screenshot.png)
-[Gameplay Video]() -> TBA
+[Gameplay Video](https://drive.google.com/file/d/1IVu_i-Zpu7qxJsTZ77LVzcDXd79alRQq/view?usp=sharing)
 
 ## Features
 - Classic arcade-style gameplay
