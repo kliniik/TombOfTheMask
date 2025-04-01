@@ -4,9 +4,9 @@ Recreation of the *Tomb of the Mask* game developed in Unity as a part of the Ga
 ## Description
 *Tomb of the Mask* is a fast-paced arcade-style game where players navigate through a maze, avoiding obstacles and collecting items. The game features pixel-art graphics, precise movement mechanics, and challenging level design inspired by the original title. This project serves as a learning experience in Unity game development, focusing on tilemaps, physics interactions, and game logic.
 
-## Gameplay Video
-![Game Screenshot]()
-<embed the video>
+## Gameplay Sneek Peak
+![Game Screenshot](game_screenshot.png)
+[Gameplay Video]() -> TBA
 
 ## Features
 - Classic arcade-style gameplay
